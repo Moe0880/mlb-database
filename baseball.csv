@@ -1,7 +1,8 @@
 player{First Name,Last Name,Position,Throws,Bats,}
 Team{Team Location,Team Mascot,Team Abbreviation,}
 game{League,Division,{Game Start Time,Home Team,Away Team,Home Score,Away Score,}
-player stats{At Bats,Runs,Hits,Doubles,Triples,Home Runs,Runs Batted In,Walks,StrikeOuts,Steals,Wins,Innings Pitched,Hits (Pitcher),Runs (Pitcher),Earned Runs,Walks (Pitcher),Strike Outs (Pitcher)}
+player stats{At Bats,Runs,Hits,Doubles,Triples,Home Runs,Runs Batted In,Walks,StrikeOuts,Steals,Wins,
+Innings Pitched,Hits (Pitcher),Runs (Pitcher),Earned Runs,Walks (Pitcher),Strike Outs (Pitcher)}
 Chris,Archer,SP,R,R,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,0,0,0,0,0,0,0,0,0,0,Y,6,6,1,1,2,6
 Josh,Bell,1B,R,B,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,4,2,3,3,0,0,2,0,0,0,0,0,0,0,0,0,0
 Francisco,Liriano,SP,L,L,Pittsburgh,Pirates,PIT,NL,Central,2019-06-06 12:35:00,PIT,ATL,6,1,0,0,0,0,0,0,0,0,0,0,Y,1.2,0,0,0,0,1
